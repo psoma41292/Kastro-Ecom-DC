@@ -1,4 +1,4 @@
-# Kastro's Application - Microservice E-commerce - Docker Compose Deployment
+# test's Application - Microservice E-commerce - Docker Compose Deployment
 
 This is a microservice-based e-commerce application that uses Docker and Docker Compose for containerization and orchestration.
 
